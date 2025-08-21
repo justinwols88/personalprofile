@@ -264,7 +264,7 @@
     }
     
     .form-control:focus {
-      background-color:  pureblack, 77, 0.15;
+      background-color:  black, 77, 0.15;
       border-color: var(--accent-color);
       box-shadow: 0 0 0 0.25rem rgba(228, 0, 0, 0.25);
       color: var(--text-light);
